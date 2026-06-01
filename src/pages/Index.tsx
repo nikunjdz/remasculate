@@ -18,7 +18,7 @@ const Index = () => {
       <div className="flex flex-col md:flex-row w-full">
 
         {/* Sidebar */}
-        <aside className="w-full md:w-[180px] shrink-0 p-6 sticky top-0 h-fit bg-[#f5f5dc] z-10">
+        <aside className="w-full md:w-[180px] shrink-0 p-6 md:sticky md:top-0 h-fit bg-[#f5f5dc] z-10">
           <a href="https://www.nancho.net/demorule/index.html">
             <img
               src="https://www.nancho.net/graph/BMREVDEM.jpg"
